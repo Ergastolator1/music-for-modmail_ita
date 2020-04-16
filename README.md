@@ -4,10 +4,11 @@ Musica per Modmail ti fa ascoltare la musica direttamente sulla tua istanza Modm
 
 ## Installazione
 
-L'installazione è fatta possibile usando questo comando:
+L'installazione è stata resa possibile usando questo comando:
 ```
 plugins add Ergastolator1/music-for-modmail_ita/musica@master
 ```
+Dopo averlo installato, potresti aver bisogno di installare anche le dipendenze, ffmpeg, libopus e riavviare il Modmail al più presto possibile.
 
 ## Altri requisiti
 

@@ -13,6 +13,7 @@ Dopo averlo installato, potresti aver bisogno di installare anche le dipendenze,
 ## Altri requisiti
 
 FFmpeg - per decodifica MPEG.
+`libopus` - per streaming OPUS su Discord.
 
 ## Comandi
 
